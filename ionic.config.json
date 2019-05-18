@@ -1,5 +1,7 @@
 {
   "name": "rest tracker",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
